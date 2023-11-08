@@ -7,9 +7,9 @@
 
 ### J'ai unifié les travaux déjà réalisés (Back-End et Front-End) en intégrant dynamiquement les éléments de l'API dans les différentes pages web avec JavaScript.
 
-L'utilisateur peut visualiser l'ensemble des produits, ajouter un ou plusieurs article dans un panier, modifier ou supprimer son panier et passer commande.
+L'utilisateur peut visualiser l'ensemble des produits, ajouter un ou plusieurs articles dans un panier, modifier ou supprimer son panier et passer commande.
 
-Kanap est une marque de canapés qui vend ses produits depuis sa boutique exclusivement. Aujourd’hui, celle-ci souhaiterait avoir une plateforme de e-commerce en plus de sa boutique physique pour vendre ses produits sur Internet.
+Kanap est une marque de canapé qui vend ses produits depuis sa boutique exclusivement. Aujourd’hui, celle-ci souhaiterait avoir une plateforme de e-commerce en plus de sa boutique physique pour vendre ses produits sur Internet.
 
 ### Architecture générale
 
