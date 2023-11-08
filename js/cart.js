@@ -325,7 +325,7 @@ function orderButton() {
             "Content-Type": "application/json",
           },
         };
-        fetch("http://localhost:3000/api/products/order", options)
+        fetch("https://api-kanap-ntcl.onrender.com/api/products/order", options)
           .then((response) => response.json())
           .then((data) => {
             localStorage.clear(); // Je supprime tout élément du local storage
